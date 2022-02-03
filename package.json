@@ -1,0 +1,23 @@
+{
+  "name": "ardizzoneadpmeet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardizzonepietro/ArdizzoneAdpMeet.git"
+  },
+  "author": "ardizzonepietro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ardizzonepietro/ArdizzoneAdpMeet/issues"
+  },
+  "homepage": "https://github.com/ardizzonepietro/ArdizzoneAdpMeet#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "jsonfile": "^6.1.0"
+  }
+}
