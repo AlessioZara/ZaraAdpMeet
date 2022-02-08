@@ -1,5 +1,5 @@
 {
-  "name": "ardizzoneadpmeet",
+  "name": "ZaraAdpMeet",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ardizzonepietro/ArdizzoneAdpMeet.git"
+    "url": "git+https://github.com/ZaraAlessio/ZaraAdpMeet.git"
   },
-  "author": "ardizzonepietro",
+  "author": "ZaraAlessio",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ardizzonepietro/ArdizzoneAdpMeet/issues"
-  },
-  "homepage": "https://github.com/ardizzonepietro/ArdizzoneAdpMeet#readme",
+    "url": "https://github.com/ZaraAlessio/ZaraAdpMeet/issues"
+  }, ma 
+  "homepage": "https://github.com/ZaraAlessio/ZaraAdpMeet#readme",
   "dependencies": {
     "express": "^4.17.2",
     "jsonfile": "^6.1.0"
